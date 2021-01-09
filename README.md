@@ -1,5 +1,7 @@
 # Module Federation Template
 
+[![webpack](https://img.shields.io/badge/webpack-5.12.2-green.svg)](https://semver.org)
+
 This template project is created to run Module Federation in React with webpack with minimal setup.
 
 This is so that you could extend to whatever you need for your project purposes apart from Module Federation. Eg: Typescripts support, test runner, test framework, linting, styling, and etc.
